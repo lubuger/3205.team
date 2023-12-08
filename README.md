@@ -6,10 +6,11 @@ To see list of available users please go into:
 
 Frontend:
 *     react
-*     vite
+*     redux
 *     bootstrap
 *     typescript
 *     eslint
+*     vite
 Runs on http://localhost:5173/
 
 Backend:
